@@ -4,7 +4,7 @@
   "description": "Boilerplate",
   "main": "index.js",
   "engines": {
-    "node": "12.16.3"
+    "node": "14.17.3"
   },
   "scripts": {
     "docker-start-dev": "docker-compose -f \"docker\\DEV.docker-compose.yml\" up",
